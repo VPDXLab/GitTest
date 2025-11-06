@@ -1,0 +1,3 @@
+[submodule "XlabProject"]
+	path = XlabProject
+	url = https://github.com/VPDXLab/XlabProject.git
